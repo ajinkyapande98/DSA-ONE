@@ -1,0 +1,50 @@
+💡 Basic Problems
+Find the maximum and minimum elements in an array.
+Reverse an array.
+Find the second largest and second smallest elements.
+Move all zeros to the end of the array.
+Remove duplicates from a sorted array.
+Rotate an array by k positions.
+Check if an array is sorted.
+Find the missing number in an array of size n containing numbers from 1 to n.
+Find the sum of all subarrays.
+Merge two sorted arrays.
+
+
+🚀 Intermediate Problems
+Find the intersection of two arrays.
+Find the union of two arrays.
+Kadane's Algorithm (Maximum Subarray Sum).
+Longest Consecutive Sequence.
+Find the majority element (appears more than n/2 times).
+Rearrange the array in alternating positive and negative items.
+Find the subarray with a given sum.
+Count the number of subarrays having a sum equal to k.
+Find the frequency of each element.
+Find the pair with the given sum.
+
+
+🧠 Advanced Problems
+Maximum Product Subarray.
+Trapping Rain Water Problem.
+Longest Increasing Subsequence (LIS).
+Maximum Sum Increasing Subsequence.
+Smallest Subarray with Sum Greater Than a Given Value.
+Subarray with XOR equal to k.
+Find the number of subarrays with an equal number of 0s and 1s.
+Next Permutation of an Array.
+Merge Intervals.
+Find the Triplets that Sum to Zero.
+
+
+🔥 Expert Problems
+Minimum Swaps to Sort the Array.
+Best Time to Buy and Sell Stock (Multiple Variations).
+Median of Two Sorted Arrays.
+Find the Peak Element.
+Maximum Profit by Buying and Selling a Share at Most Twice.
+Count Inversions in an Array.
+Sliding Window Maximum.
+Find the Length of the Longest Subarray with Sum Zero.
+Find All Anagrams of a String in Another String (Sliding Window).
+Count Smaller Numbers After Self (using BST or Fenwick Tree).

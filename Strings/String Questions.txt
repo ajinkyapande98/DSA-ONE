@@ -1,0 +1,50 @@
+💡 Basic Problems
+Reverse a string.
+Check if a string is a palindrome.
+Find the length of the longest word in a sentence.
+Count the number of vowels and consonants.
+Find the frequency of each character in a string.
+Check if two strings are anagrams.
+Remove all white spaces from a string.
+Convert a string to uppercase/lowercase.
+Count the number of words in a string.
+Replace spaces with %20 (URLify).
+
+
+🚀 Intermediate Problems
+Check if a string contains only digits.
+Find the first non-repeating character.
+Longest Common Prefix.
+Longest Substring Without Repeating Characters.
+Check if a given string is a rotation of another string.
+Check if a string follows a specific pattern.
+Implement basic string compression.
+Implement string matching algorithms (e.g., KMP or Rabin-Karp).
+Print all permutations of a given string.
+Group anagrams together.
+
+
+🧠 Advanced Problems
+Longest Palindromic Substring.
+Longest Palindromic Subsequence.
+Minimum Insertions to Make a String Palindrome.
+Wildcard Pattern Matching (with ? and *).
+Edit Distance between two strings.
+Minimum Window Substring.
+Count and Say Problem.
+String to Integer (atoi).
+Longest Repeating Subsequence.
+Find the smallest window in a string containing all characters of another string.
+
+
+🔥 Expert Problems
+Implement a Regular Expression Matcher.
+Roman to Integer and Integer to Roman.
+Remove Invalid Parentheses.
+Encode and Decode Strings.
+Word Ladder (Shortest Transformation Sequence).
+Print all subsequences of a string.
+Multiply Two Large Numbers Given as Strings.
+Check if one string can be obtained by rotating another.
+Validate an IP Address.
+Text Justification.

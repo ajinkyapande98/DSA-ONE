@@ -1,0 +1,37 @@
+- Basic Problems
+Reverse a Linked List.
+Find the Middle of a Linked List.
+Detect a Cycle in a Linked List (Floyd’s Cycle-Finding Algorithm).
+Merge Two Sorted Linked Lists.
+Remove Duplicates from a Sorted Linked List.
+Delete a Node from a Linked List (given only access to that node).
+Intersection of Two Linked Lists.
+Palindrome Linked List.
+Find N-th Node from the End.
+Remove N-th Node from the End of List.
+Delete the Middle Node of a Linked List.
+
+
+- Intermediate Problems
+Rotate a Linked List.
+Flatten a Multilevel Doubly Linked List.
+Clone a Linked List with Random Pointers.
+Swap Nodes in Pairs.
+Add Two Numbers Represented by Linked Lists.
+Intersection Point of Two Linked Lists.
+Sort a Linked List (Merge Sort or Quick Sort).
+Copy List with Random Pointer.
+Delete All Occurrences of a Given Key.
+
+
+- Advanced Problems
+Reverse Nodes in k-Group.
+LRU Cache Implementation using Linked List.
+Flatten a Linked List.
+Sort a Linked List in O(n log n) time and O(1) space.
+Merge K Sorted Linked Lists.
+Reverse Alternating K Nodes in a Linked List.
+Multiply Two Linked Lists.
+Partition a Linked List around a Value.
+Reorder Linked List (from L0 → Ln → L1 → Ln-1 → L2 → Ln-2...).
+Segregate Even and Odd Nodes in a Linked List.

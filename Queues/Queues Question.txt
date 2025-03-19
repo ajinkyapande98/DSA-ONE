@@ -1,0 +1,50 @@
+💡 Basic Problems
+Implement a Queue using Arrays.
+Implement a Queue using Linked List.
+Implement a Circular Queue.
+Implement a Double-Ended Queue (Deque).
+Reverse a Queue using Recursion.
+Reverse the First K Elements of a Queue.
+Check if a Queue can be Sorted using a Stack.
+Generate Binary Numbers from 1 to N using a Queue.
+Find the First Non-Repeating Character in a Stream.
+Implement a Queue using Two Stacks.
+
+
+🚀 Intermediate Problems
+Implement a Priority Queue.
+Implement a Monotonic Queue.
+Implement a Circular Deque.
+Sliding Window Maximum using Deque.
+Implement an LRU Cache using Deque.
+Implement a Queue with Maximum Element.
+Rotten Oranges Problem (Minimum Time to Rot).
+Print Binary Tree Level Order Traversal.
+Zigzag Level Order Traversal.
+Sum of Minimum and Maximum Elements of All Subarrays of Size K.
+
+
+🧠 Advanced Problems
+First Negative Integer in Every Window of Size K.
+Maximum of All Subarrays of Size K.
+Design a Hit Counter.
+Implement a Snake and Ladder Problem using BFS.
+Design a Data Stream that Supports Finding the Median.
+Implement a Double-Ended Priority Queue.
+Shortest Path in a Grid with Obstacles using BFS.
+Task Scheduling Problem.
+Reconstruct Queue by Height.
+Implement a Circular Buffer.
+
+
+🔥 Expert Problems
+Minimum Number of Refueling Stops.
+Jump Game VI (Using Deque for Sliding Window).
+Maximum Performance of a Team.
+Minimum Cost to Connect Sticks.
+Shortest Bridge between Two Islands (using BFS).
+Design a Messaging Queue System.
+Sliding Puzzle Problem.
+Implement a Blocking Queue.
+Maximum Sum of Two Non-Overlapping Subarrays.
+Find the Top K Frequent Elements.

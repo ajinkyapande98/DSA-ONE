@@ -1,0 +1,52 @@
+💡 Basic Problems
+Implement a Binary Tree.
+Preorder Traversal (Recursive and Iterative).
+Inorder Traversal (Recursive and Iterative).
+Postorder Traversal (Recursive and Iterative).
+Level Order Traversal (Breadth-First Search).
+Height of a Binary Tree.
+Size of a Binary Tree (Number of Nodes).
+Count Leaf Nodes in a Binary Tree.
+Count Non-Leaf Nodes in a Binary Tree.
+Print Nodes at K Distance from Root.
+
+
+🚀 Intermediate Problems
+Diameter of a Binary Tree.
+Check if Two Trees are Identical.
+Check if a Binary Tree is Balanced.
+Check if a Binary Tree is a Subtree of Another Tree.
+Symmetric Tree (Mirror Image).
+Convert Binary Tree to its Mirror.
+Print Boundary Nodes of a Binary Tree.
+Print Left and Right View of a Binary Tree.
+Zigzag (Spiral) Level Order Traversal.
+Vertical Order Traversal.
+
+
+🧠 Advanced Problems
+Lowest Common Ancestor (LCA) of Two Nodes.
+Path Sum Problems:
+Root to Leaf Path Sum
+Path Sum Equals a Given Value
+Print All Root to Leaf Paths.
+Flatten Binary Tree to Linked List.
+Serialize and Deserialize a Binary Tree.
+Maximum Path Sum in a Binary Tree.
+Construct a Binary Tree from Preorder and Inorder Traversal.
+Construct a Binary Tree from Postorder and Inorder Traversal.
+Find the Distance Between Two Nodes.
+Kth Ancestor of a Node in a Binary Tree.
+
+
+🔥 Expert Problems
+Convert a Binary Tree to a Doubly Linked List.
+Print All Nodes at Distance K from a Given Node.
+Tree Diameter Optimization (using Height).
+Morris Traversal (Inorder without Recursion and without Stack).
+Check if a Binary Tree is a Sum Tree.
+Check if a Binary Tree is a Complete Binary Tree.
+Count Number of Subtrees Having a Sum Equal to a Given Value.
+Print Nodes in Top View of a Binary Tree.
+Print Nodes in Bottom View of a Binary Tree.
+Convert a Binary Tree to its Sum Tree.

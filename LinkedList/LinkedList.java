@@ -1,3 +1,4 @@
+package LinkedList;
 public class LinkedList {
     public static void main(String[] args) {
         Node myLinkedNode = new Node(0);
@@ -11,6 +12,19 @@ public class LinkedList {
         printLinkedList(myLinkedNode);
     }
 
+    public static Node findMiddleOfLinkedList(Node head){
+        if(head==null){
+            return head;
+        }
+        Node current = head;
+        Node fastPointer = head;
+        while (fastPointer!=null && fastPointer.next!=null) {
+            current = current.next;
+            fastPointer = fastPointer.next.next;
+        }
+        return current;
+    }
+
     public static void printLinkedList(Node head) {
         Node current = head;
         while (current != null) {
@@ -19,7 +33,7 @@ public class LinkedList {
         }
     }
 
-    
+
 }
 
 class Node {

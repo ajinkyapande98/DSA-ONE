@@ -1,0 +1,50 @@
+💡 Basic Problems
+Implement a Stack using Arrays.
+Implement a Stack using Linked List.
+Reverse a String using a Stack.
+Check for Balanced Parentheses (or Valid Parentheses).
+Evaluate Postfix Expression.
+Convert Infix Expression to Postfix.
+Convert Infix Expression to Prefix.
+Implement Two Stacks in One Array.
+Design a Min Stack (Stack that supports getMin() in O(1) time).
+Check for Redundant Brackets.
+
+
+🚀 Intermediate Problems
+Next Greater Element to the Right.
+Next Greater Element to the Left.
+Next Smaller Element to the Right.
+Next Smaller Element to the Left.
+Sort a Stack using Recursion.
+Sort a Stack without Using Any Other Data Structure.
+Design a Special Stack with getMin() and getMax() in O(1).
+Find the Celebrity in a Party.
+Find the Largest Rectangular Area in a Histogram.
+Stock Span Problem.
+
+
+🧠 Advanced Problems
+Maximum Area of Rectangle in a Binary Matrix.
+Longest Valid Parentheses.
+Remove K Digits to Get the Smallest Possible Number.
+Expression Evaluation (Infix, Prefix, Postfix).
+Design a Stack that Supports Increment Operation.
+Implement a Monotonic Stack.
+Decode a String Encoded as “3[a2[c]]”.
+Largest Rectangle in Histogram (using a Stack).
+Online Stock Span Problem.
+Flatten a Nested List Iterator.
+
+
+🔥 Expert Problems
+Maximal Rectangle in a Binary Matrix.
+The Skyline Problem.
+Basic Calculator I, II, and III (Expression Parsing).
+Remove Duplicate Letters to Get Lexicographically Smallest Result.
+Histogram Water Trapping (Trapping Rain Water).
+Basic Calculator with Support for Parentheses and Operators.
+Design a Maximum Frequency Stack.
+Sum of Subarray Minimums.
+Validate Stack Sequences.
+Implement a Stack using Queues.
