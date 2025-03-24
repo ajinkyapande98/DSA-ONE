@@ -1,0 +1,32 @@
+🚀 1. Master the Fundamentals (Data Structures & Algorithms)
+Arrays and Strings: Sliding Window, Two Pointers, Prefix Sum.
+Linked Lists: Singly, Doubly, Circular.
+Stacks and Queues: Monotonic Stack, Deque.
+Trees and Graphs: Binary Tree, BST, Trie, Graph Traversals (BFS, DFS).
+Heaps and Priority Queues: Min-Heap, Max-Heap.
+Hashing: Hash Map, Hash Set.
+Sorting and Searching: Quick Sort, Merge Sort, Binary Search.
+Dynamic Programming (DP): Memoization, Tabulation.
+Greedy Algorithms: Activity Selection, Huffman Coding.
+Divide and Conquer: Merge Sort, Quick Sort.
+Backtracking: Permutations, Subsets, N-Queens.
+Bit Manipulation: Bitwise operations, XOR tricks.
+String Algorithms: KMP, Rabin-Karp, Z-Algorithm, Trie.
+Graph Algorithms: Dijkstra’s, Floyd-Warshall, Kruskal’s, Prim’s.
+
+
+📝 2. Learn Problem-Solving Techniques
+Pattern Recognition: Learn how to identify the pattern in the problem.
+Break Down the Problem: Divide it into manageable parts.
+Write Pseudocode First: This helps in visualizing the solution.
+Complexity Analysis: Analyze the time and space complexity.
+Edge Case Handling: Think about edge cases before coding.
+
+
+💡 3. Practice Regularly
+Platforms: LeetCode, CodeSignal, HackerRank, CodeChef, Codeforces, GeeksforGeeks.
+Practice by Topics: Solve problems topic-wise to build strong fundamentals.
+Take Part in Competitions: Participate in contests to enhance speed and accuracy.
+
+
+https://www.geeksforgeeks.org/top-50-array-coding-problems-for-interviews/

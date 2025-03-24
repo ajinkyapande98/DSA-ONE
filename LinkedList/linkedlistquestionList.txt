@@ -1,6 +1,6 @@
 - Basic Problems
 Reverse a Linked List.
-Find the Middle of a Linked List.
+Find the Middle of a Linked List. ✅
 Detect a Cycle in a Linked List (Floyd’s Cycle-Finding Algorithm).
 Merge Two Sorted Linked Lists.
 Remove Duplicates from a Sorted Linked List.
