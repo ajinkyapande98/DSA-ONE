@@ -48,3 +48,15 @@ Multiply Two Large Numbers Given as Strings.
 Check if one string can be obtained by rotating another.
 Validate an IP Address.
 Text Justification.
+
+
+
+1. Compress the String.
+2. Reverse each Words.
+3. Print First letter of each word.
+4. Remove Character from the same String.
+5. Remove String from other String.
+6. Remove Duplicate.
+7. find Unique.
+8. Check Permutation.
+9.  Remove Vowels.

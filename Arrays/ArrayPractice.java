@@ -8,16 +8,49 @@ public class ArrayPractice {
         // System.out.println("Hello, World!");
         int[] arr = { 1, 0, 21, 0, 94, 0, 81, 54, 87, 3 };
         int n = arr.length;
-        int duplicateArr[] = {2,3,4,1,3,4,6,4,6,3};
-        int duplicateLength = duplicateArr.length;
-        // int[] bubbleSortedArray = bubbleSort(arr,n);
-        // int[] insertionSortedArray = insertionSort(arr,n);
-        // int[] selectionSortedArray = selectionSort(arr,n);
-        // int[] minAndMaxInArray = findMinAndMaxFromArray(arr, n);
-        // reverseAnArray(arr, n);
-        // moveAllZeroToEnd(arr,n);
-        removeDuplicateFromArray(duplicateArr,duplicateLength);
+        secondLargestNumber(arr,n);
         // printArray(minAndMaxInArray, minAndMaxInArray.length);
+    }
+
+    public static void secondLargestNumber(int[] arr, int n) {
+        if (n < 2) {
+            System.out.println("alteast 2 element"); // base condition
+            return;
+        }
+        int max = Integer.MIN_VALUE;
+        int secondMax = Integer.MIN_VALUE;
+        for(int i=0;i<n;i++){
+            if (arr[i]>max) {
+                secondMax = max;
+                max = arr[i];
+            }
+            if(arr[i]<max && arr[i]>secondMax){
+                secondMax =  arr[i];
+            }
+        }
+        System.out.println(secondMax);
+    }
+
+    public static void isNumberMissingInArray(int[] arr, int n) {
+        for (int i = 0; i < n; i++) {
+            if(arr[i] != (i+1)){
+                System.out.print(i);
+                break;
+            }
+        }
+    }
+
+
+    public static void rotateAnArrayByKNumber(int[] arr, int n, int k) {
+        for (int i = 0; i < k; i++) {
+            int lastIndex = arr[n-1];
+            for (int j = n-1; j > 0; j--) {
+                arr[j] = arr[j-1];
+        }
+        arr[0] = lastIndex;
+        }
+        printArray(arr, n);
+
     }
 
     public static boolean isArraySorted(int[] arr, int n) {
